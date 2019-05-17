@@ -1,0 +1,6 @@
+br\com\toyota\ws\tdbmonitor\rest\dto\StartupLogDTO.class
+br\com\toyota\ws\tdbmonitor\rest\web\WrapUpIntegrationWS.class
+br\com\toyota\ws\tdbmonitor\model\Message.class
+br\com\toyota\ws\tdbmonitor\rest\dto\WrapupLogDTO.class
+br\com\toyota\ws\tdbmonitor\rest\util\RestfulApp.class
+br\com\toyota\ws\tdbmonitor\rest\web\StartUpIntegrationWS.class
